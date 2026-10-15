@@ -43,3 +43,7 @@ ini pembahasan
 ## 3. Me-restart aplikasi
 
 <img src="images//03.png" width="700">
+
+pembahasan
+
+ini pembahasan
