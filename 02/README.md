@@ -1,6 +1,6 @@
-# 📝 Laporan Praktikum [Nama Mata Kuliah / Topik Praktikum]
+# 📝 Laporan Praktikum [PRAKTIKUM SISTEM TERDISTRIBUSI DAN TERDESENTRALISASI]
 
-> **Modul [Nomor Modul]:** [Judul Modul Praktikum]  
+> **Modul [Nomor Modul]:** [Komunikasi Antar Proses pada Sistem Terdistribusi modul 2]  
 > **Tanggal Praktikum:** [Tanggal Pelaksanaan]
 
 ---
@@ -8,7 +8,7 @@
 ## 👤 Informasi Mahasiswa
 * **Nama:** RAYHAN PRATAMA 
 * **NIM:** 255410018 
-* **Kelas:** [Kelas/Rombel]  
+* **Kelas:** [IF-1]  
 * **Dosen / Asisten Praktikum:** [Nama Dosen/Asdos]  
 
 ---
@@ -45,5 +45,6 @@ ini pembahasan
 <img src="images//03.png" width="700">
 
 pembahasan
+
 
 ini pembahasan
