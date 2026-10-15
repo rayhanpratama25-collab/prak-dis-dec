@@ -6,8 +6,8 @@
 ---
 
 ## 👤 Informasi Mahasiswa
-* **Nama:** [Nama Anda]  
-* **NIM:** [NIM Anda]  
+* **Nama:** RAYHAN PRATAMA 
+* **NIM:** 255410018 
 * **Kelas:** [Kelas/Rombel]  
 * **Dosen / Asisten Praktikum:** [Nama Dosen/Asdos]  
 
