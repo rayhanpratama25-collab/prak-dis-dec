@@ -34,3 +34,8 @@ Ini Pembahasan
 ### 2. Cek APLIKASI WEB BROWSER
 
 <img src="images/02.png" width="700">
+
+pembahasan
+
+
+ini pembahasan
