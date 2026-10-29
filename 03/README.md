@@ -17,3 +17,5 @@ Setelah menyelesaikan praktikum ini, mahasiswa diharapkan dapat:
 🔬 2. Pembahasan Praktik
 
 <img src="images/01-install.png" width="700">
+
+<img src="images/02.png" width="700">
