@@ -15,3 +15,5 @@ Setelah menyelesaikan praktikum ini, mahasiswa diharapkan dapat:
 🔹 [Tujuan Kedua, contoh: Mengimplementasikan algoritma pencarian linear]
 🔹 [Tujuan Ketiga, contoh: Menganalisis efisiensi dan kompleksitas kode yang dibuat]
 🔬 2. Pembahasan Praktik
+
+<img src="images/01-install.png" width="700">
